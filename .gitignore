@@ -1,0 +1,9 @@
+# server side ignore
+server/node_modules
+server/.env
+server/.env*.local
+
+# client side ignore
+client/node_modules
+client/.env*.local
+client/.next
